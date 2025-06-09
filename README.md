@@ -38,7 +38,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/MrRealmWLS/MrRealmWLS/output/snake.svg" alt="Snake animation" />
-
-###
