@@ -1,6 +1,6 @@
-<h2 align="left">Hi 👋! My name is RealmWLS and I'm a Python,Discord & Minecraft Developer, from Pakistan</h2>
-
-###
+<h2 align="left">Hi 👋</h2>
+<h3>My name is RealmWLS</h3>
+<h4>I'm a Python,Discord & Minecraft Developer from Pakistan</h4>
 
 <div align="center">
   <img src="https://statss-z3ln.vercel.app/api?username=MrRealmWLS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
