@@ -1,39 +1,24 @@
-<h2 align="left">Hi 👋! My name is RealmWLS and I'm a Python,Discord & Minecraft Developer, from Pakistan</h2>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=RealmWLS&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<div align="center">
-  <img src="https://statss-z3ln.vercel.app/api?username=MrRealmWLS&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://statss-z3ln.vercel.app/api/top-langs?username=MrRealmWLS&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-
-###
-
-<img align="right" height="150" src="https://cdn.discordapp.com/avatars/1378097755335163934/a_c9bd2da01d56b0c2629341dd2ed8d3f9.gif?size=512"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://guns.lol/realmwls" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=MrRealmWLS">
+    <img src="https://komarev.com/ghpvc/?username=MrRealmWLS&label=Profile%20views&color=00FFFF&style=flat-square" alt="MrRealmWLS's profile views" />
   </a>
-  <a href="https://www.instagram.com/realmwls/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+</p>
+
+## 📌 About Me
+- 🌴 I'm a Python, Discord & Minecraft Developer with 6 year of experience
+
+
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/MrRealmWLS">
+    <img height="180em" src="https://statss-z3ln.vercel.app/api?username=MrRealmWLS&cache_seconds=7200&layout=compact&theme=onedark&border_radius=10" alt="MrRealmWLS's GitHub Stats" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=realmwls75@gmail.com&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
+  <img src="https://streak-stats.demolab.com/?user=MrRealmWLS&theme=onedark&hide_border=true&cache_seconds=86400" alt="MrRealmWLS's GitHub Streak" width="49%" />
+</p>
 
-###
 
-<br clear="both">
+## 🔗 Connect with Me
+<p align="center"> <a href="mailto:realmwls69@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a> <a href="https://realmwls.vercel.app" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Website" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
