@@ -15,7 +15,7 @@
   <a href="https://github.com/MrRealmWLS">
     <img height="180em" src="https://statss-z3ln.vercel.app/api?username=MrRealmWLS&cache_seconds=5&layout=compact&theme=onedark&border_radius=10&include_all_commits=true" alt="MrRealmWLS's GitHub Stats" />
   </a>
-  <img src="https://streak-stats.demolab.com/?user=MrRealmWLS&theme=onedark&hide_border=true&cache_seconds=86400" alt="MrRealmWLS's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=MrRealmWLS&theme=dark&hide_border=true&cache_seconds=86400" alt="MrRealmWLS's GitHub Streak" width="49%" />
 </p>
 
 
