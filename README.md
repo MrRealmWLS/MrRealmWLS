@@ -1,8 +1,8 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=RealmWLS&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:FB8C00&text=RealmWLS&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=MrRealmWLS">
-    <img src="https://komarev.com/ghpvc/?username=MrRealmWLS&label=Profile%20views&color=00FFFF&style=flat-square" alt="MrRealmWLS's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=MrRealmWLS&label=Profile%20views&color=FB8C00&style=flat-square" alt="MrRealmWLS's profile views" />
   </a>
 </p>
 
@@ -18,5 +18,14 @@
 
 
 ## 🔗 Connect with Me
-<p align="left"> <a href="mailto:realmwls69@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=00FFFF" alt="RealmWLS's Email"/></a> <a href="https://realmwls.vercel.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website"/></a></p>
-
+<p align="left">
+  <a href="mailto:realmwls69@gmail.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=FB8C00" alt="RealmWLS's Email"/>
+  </a>
+  <a href="https://realmwls.vercel.app" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white&color=FB8C00" alt="Personal Website"/>
+  </a>
+  <a href="https://discord.com/users/realmwls" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Discord-realmwls-46BC99?style=for-the-badge&logo=discord&logoColor=white&color=FB8C00" alt="Discord: RealmWLS"/>
+  </a>
+</p>
