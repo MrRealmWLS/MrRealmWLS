@@ -26,6 +26,6 @@
     <img align="center" src="https://img.shields.io/badge/Website-46BC99?style=for-the-badge&logo=About.me&logoColor=white&color=FB8C00" alt="Personal Website"/>
   </a>
   <a href="https://discord.com/users/realmwls" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Discord-realmwls-46BC99?style=for-the-badge&logo=discord&logoColor=white&color=FB8C00" alt="Discord: RealmWLS"/>
+    <img align="center" src="https://img.shields.io/badge/Discord: RealmWLS-46BC99?style=for-the-badge&logoColor=white&color=FB8C00" alt="Discord: RealmWLS"/>
   </a>
 </p>
