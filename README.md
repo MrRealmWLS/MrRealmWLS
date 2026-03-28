@@ -8,7 +8,6 @@
 
 ## 📌 About Me
 - 🌴 Python, Discord, and Minecraft developer with 6 years of experience
-- 👤 Muhammad Abbas
 - 🎂 13 years old (turning 14 soon)
 - 💻 Develop software, bots, and games
 
