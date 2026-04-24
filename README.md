@@ -14,7 +14,7 @@
 ## 📊 GitHub Stats & Trophies
 <p align="center">
     <img height="195em" src="https://statss-z3ln.vercel.app/api?username=RealmWLS&theme=dark&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=120" alt="MrRealmWLS's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=RealmWLS&theme=dark&hide_border=true&cache_seconds=120" alt="MrRealmWLS's GitHub Streak" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=RealmWLS&theme=dark&hide_border=true&cache_seconds=60" alt="MrRealmWLS's GitHub Streak" width="49%" />
 </p>
 
 
