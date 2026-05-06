@@ -8,7 +8,7 @@
 
 ## 📌 About Me
 - 🌴 Python, Discord, and Minecraft developer with 6 years of experience
-- 🎂 13 years old (turning 14 soon)
+- 🎂 14 years old
 - 💻 Develop software, bots, and games
 
 ## 📊 GitHub Stats & Trophies
